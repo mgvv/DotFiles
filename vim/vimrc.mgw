@@ -1,0 +1,3 @@
+"Vim WIKI config
+let g:vimwiki_list = [{'path': '/home/mgw/Dropbox/Curro/', 'index': 'curro', 'ext': '.wrk', 'diary_rel_path': 'diary/', 'diary_index': 'diary'},
+            \ {'path': '/home/mgw/Dropbox/Prsnl/', 'index': 'personal', 'ext': '.mgw', 'diary_rel_path': 'diary/', 'diary_index': 'diary'}]

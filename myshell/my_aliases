@@ -1,0 +1,9 @@
+alias less='less -m -N -g -i -J --underline-special --SILENT'
+alias more='less'
+#save fingers!
+#sort for filename extension
+alias lx='ls -lXB'
+#sort by size
+alias lk='ls -lSr'
+#sort by date
+alias lt='ls -ltr'
